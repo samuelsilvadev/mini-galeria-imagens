@@ -49,7 +49,7 @@ class Imagem{
 var imagens = [
 	{
 		cod: 1,
-		nome: "Magnetismo",
+		nome: "Arte",
 		imagem: "img/01.jpg"
 	},
 	{
